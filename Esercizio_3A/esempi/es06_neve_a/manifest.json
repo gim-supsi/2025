@@ -1,0 +1,29 @@
+{
+	"name": "Titolo",
+	"short_name": "Titolo",
+	"description": "Titolo",
+	"display_override": ["fullscreen"],
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "./icons/icon_512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		},
+		{
+			"src": "./icons/icon_256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "./icons/icon_64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "./icons/icon_32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		}
+	]
+}
