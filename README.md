@@ -46,7 +46,7 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - [Broggini Melissa](https://github.com/melissabroggini/gim)
 - [Calì Yanis](https://github.com/Nysaai/gim)
 - [Ceppi Claudio](https://github.com/Claudio-Ceppi/gim)
-- Chicherio Michelle
+- [Chicherio Michelle](https://github.com/Kikerio/gim)
 - [De Gennaro Carla](https://github.com/carladegennaro/gim)
 - [Del Rosso Allegra Maria Cristina](https://github.com/AllegraDR/gim)
 - Esposito Albina
@@ -64,7 +64,7 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - [Previtali Lara](https://github.com/LaraPrevitali/gim)
 - [Ribeiro Marques Sofia](https://github.com/SofiaRibeiroMarques/gim)
 - [Riva Gregorio](https://github.com/GregorioRiva/gim)
-- Salmina Arroyo Deborah Mersedes
+- [Salmina Arroyo Deborah Mersedes](https://github.com/Debysalmi/gim)
 - Vigizzi Sira
 - [Vosti Riccardo](https://github.com/RiccardoVosti/gim)
 - [Zemp Martina](https://github.com/martinazemp/gim)
