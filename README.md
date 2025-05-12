@@ -49,18 +49,15 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - [Chicherio Michelle](https://github.com/Kikerio/gim)
 - [De Gennaro Carla](https://github.com/carladegennaro/gim)
 - [Del Rosso Allegra Maria Cristina](https://github.com/AllegraDR/gim)
-- Esposito Albina
 - [Falcone Daniele](https://github.com/Dadiccs/gim)
 - [Guante Henriquez Elisabeth](https://github.com/gnteli/gim)
 - [Hess Lorenzo](https://github.com/l0renz0hess/gim)
 - [Jean-Richard Sophie](https://github.com/AstroPengu/gim)
 - [Lopopolo Greta](https://github.com/gretalopopolo/gim)
 - [Maghetti Simone](https://github.com/simonemaghetti)
-- Massarotti Emma
+- [Massarotti Emma](https://github.com/EmmaMassarotti/gim)
 - [Mazzola Luca](https://github.com/LucaMazzolaa/gim)
-- Mu Debora
 - [Pantani Laura](https://github.com/Laura-pantani/gim)
-- Pini Elisa
 - [Previtali Lara](https://github.com/LaraPrevitali/gim)
 - [Ribeiro Marques Sofia](https://github.com/SofiaRibeiroMarques/gim)
 - [Riva Gregorio](https://github.com/GregorioRiva/gim)
