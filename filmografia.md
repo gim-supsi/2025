@@ -79,8 +79,8 @@ Filmografia, letture ed esercizi
 ## 3. Il mondo surreale  
 
 #### Len Lye  
-- [Raynbow Dance](https://www.youtube.com/watch?v=JpVrIjj8mhU), 1936  
-- [Free Radicals](https://www.youtube.com/watch?v=LpAOHBHxaSM), 1958  
+- [Raynbow Dance](https://vimeo.com/191289129), 1936  
+- [Free Radicals](https://www.youtube.com/watch?v=t5ych1ikDfI), 1958  
 
 #### Jan Švankmajer  
 - [Meat Love](https://www.youtube.com/watch?v=g_Xqnmk5Zic), 1989  
@@ -113,7 +113,9 @@ Filmografia, letture ed esercizi
 - [Calculated Movements](https://archive.org/details/1985LarryCubaCalculatedMovements), 1985  
       
 #### Busby Berkeley  
-- Selezione di coreografie, 1930-40 (Nota file con selezione)  
+- [Kaleidoscopic Dance](https://www.youtube.com/watch?v=ysvQ5MaUbd8), 1933
+- [Gold Diggers of 1933](https://www.youtube.com/watch?v=VxdZNCwConI), 1933
+- [Lullaby of Broadway](https://www.youtube.com/watch?v=Yx6s-YReOJY), 1935
 
 #### Ralph Steiner
 - [H2O](https://www.youtube.com/watch?v=1STF_usLSQY), 1929 (Accompagnare con brano musicale a scelta)  
