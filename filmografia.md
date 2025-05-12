@@ -79,14 +79,15 @@ Filmografia, letture ed esercizi
 ## 3. Il mondo surreale  
 
 #### Len Lye  
-- [Raynbow Dance](https://www.youtube.com/watch?v=JpVrIjj8mhU), 1936  
-- [Free Radicals](https://www.youtube.com/watch?v=LpAOHBHxaSM), 1958  
+- [Raynbow Dance](https://vimeo.com/191289129), 1936  
+- [Free Radicals](https://www.youtube.com/watch?v=t5ych1ikDfI), 1958  
 
-#### Jan Svankmajer  
+#### Jan Švankmajer  
+- [Jabberwocky](https://www.youtube.com/watch?v=9VP4tgsTVKk), 1971
 - [Meat Love](https://www.youtube.com/watch?v=g_Xqnmk5Zic), 1989  
 - [Flora](https://www.youtube.com/watch?v=np-kFkDLT7k), 1989  
 - [A Game with stones](https://vimeo.com/99961406), 1965  
-- [Food](https://www.youtube.com/watch?v=lYwAzLlUbV8), 1992  
+- [Food](https://vimeo.com/groups/35mmandrisdamburs/videos/50746661), 1992  
 
 #### Man Ray  
 - [The Return To Reason](https://www.youtube.com/watch?v=9ijx-ZYVxkQ), 1923  
@@ -103,20 +104,29 @@ Filmografia, letture ed esercizi
 ## 4. Geometrie  
 
 #### Auguste & Louis Lumière  
-- [Danse Serpentine](https://www.youtube.com/watch?v=iCJ7glJLRyE), Loie Fuller, 1899  
+- [Bataille de Boules de Neige](https://www.youtube.com/watch?v=gxPaojBMuB0), 1896
+- [Danse Serpentine](https://www.cinemacentansdejeunesse.org/en/videos/a-serpentine-dance.html), Loie Fuller, 1899  
 
 #### Hans Richter  
-- [Rhythmus 21](https://www.youtube.com/watch?v=R_kceafWtbE), 1921  
+- [Rhythmus 21](https://www.youtube.com/watch?v=R_kceafWtbE), 1921 
+- [Filmstudie](https://www.youtube.com/watch?v=8JxUgqIN4ac), 1924
 - [Ghosts Before Breakfast](https://www.youtube.com/watch?v=R1RtfQDPkrE), 1928  
 
 #### Larry Cuba  
+- [Making of the Computer Graphics for Star Wars (Episode IV)](https://www.youtube.com/watch?v=yMeSw00n3Ac), 1977
+- [3/78](https://www.youtube.com/watch?v=ApnS1uDGEvw), 1978
+- [Two Space](https://www.youtube.com/watch?v=ddd5z0CgPKg), 1979
 - [Calculated Movements](https://archive.org/details/1985LarryCubaCalculatedMovements), 1985  
       
 #### Busby Berkeley  
-- Selezione di coreografie, 1930-40 (Nota file con selezione)  
+- [Kaleidoscopic Dance](https://www.youtube.com/watch?v=ysvQ5MaUbd8), 1933
+- [Gold Diggers of 1933](https://www.youtube.com/watch?v=VxdZNCwConI), 1933
+- [Lullaby of Broadway](https://www.youtube.com/watch?v=Yx6s-YReOJY), 1935
 
 #### Ralph Steiner
 - [H2O](https://www.youtube.com/watch?v=1STF_usLSQY), 1929 (Accompagnare con brano musicale a scelta)  
+- [Mechanical Principles](https://www.dailymotion.com/video/x2294d4), 1930
+- [Look Park](https://www.youtube.com/watch?v=G8mxrY-3w2A), 1974
 
 #### Norman McLaren  
 - [NFB](https://www.nfb.ca/playlists/donald_mcwilliams/mclaren/])  
@@ -130,7 +140,8 @@ Filmografia, letture ed esercizi
 - [Spheres](https://www.youtube.com/watch?v=XiBiO66pOqg), 1969   
 
 #### Segundo de Chomon  
-- [Les Kiriki Acrobates Japonais](https://www.youtube.com/watch?v=xf36AZ9cnmA), 1907  
+- [Les Kiriki Acrobates Japonais](https://www.dailymotion.com/video/x45ra), 1907  
+- [La Maison ensorcelée](https://www.youtube.com/watch?v=nTdOSTQZCQA), 1907
 
 #### Mirai Mizue  
 - [Modern](https://www.youtube.com/watch?v=fVbV-f0rMFM), 2011  
@@ -170,6 +181,10 @@ Filmografia, letture ed esercizi
 - [Dead Man on Campus](https://www.artofthetitle.com/title/dead-man-on-campus/), 1995  
 - Selezione di titoli di James Bond, 007  
 
+#### Zbigniew Rybczynski 
+- [Tango](https://www.youtube.com/watch?v=6fWQ9E2X-EY), 1980
+- [Imagine by John Lennon](https://www.youtube.com/watch?v=tnXoJ3suYNU), 1986
+- [I can't think about dancing, by Missing Persons](https://www.youtube.com/watch?v=U3RpfKCPc00&list=PLTnbwiCw-mMRUpiJBImSWUVj1NoydUmL6&index=14), 1986
 ## 6. Bonus  
 
 #### Ralph Steiner  
@@ -189,7 +204,7 @@ Filmografia, letture ed esercizi
 #### John Whitney  
 - [Vertigo](https://www.youtube.com/watch?v=Z6tG8DWmuWM), 1958  
 
-  
+ 
 ## 7. Letture  
 
 #### Heinrich von Kleist  
