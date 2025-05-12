@@ -82,7 +82,7 @@ Filmografia, letture ed esercizi
 - [Raynbow Dance](https://www.youtube.com/watch?v=JpVrIjj8mhU), 1936  
 - [Free Radicals](https://www.youtube.com/watch?v=LpAOHBHxaSM), 1958  
 
-#### Jan Svankmajer  
+#### Jan Švankmajer  
 - [Meat Love](https://www.youtube.com/watch?v=g_Xqnmk5Zic), 1989  
 - [Flora](https://www.youtube.com/watch?v=np-kFkDLT7k), 1989  
 - [A Game with stones](https://vimeo.com/99961406), 1965  
@@ -170,6 +170,10 @@ Filmografia, letture ed esercizi
 - [Dead Man on Campus](https://www.artofthetitle.com/title/dead-man-on-campus/), 1995  
 - Selezione di titoli di James Bond, 007  
 
+#### Zbigniew Rybczynski 
+- [Tango](https://www.youtube.com/watch?v=6fWQ9E2X-EY), 1980
+- [Imagine by John Lennon](https://www.youtube.com/watch?v=tnXoJ3suYNU), 1986
+- [I can't think about dancing, by Missing Persons](https://www.youtube.com/watch?v=U3RpfKCPc00&list=PLTnbwiCw-mMRUpiJBImSWUVj1NoydUmL6&index=14), 1986
 ## 6. Bonus  
 
 #### Ralph Steiner  
@@ -189,7 +193,7 @@ Filmografia, letture ed esercizi
 #### John Whitney  
 - [Vertigo](https://www.youtube.com/watch?v=Z6tG8DWmuWM), 1958  
 
-  
+ 
 ## 7. Letture  
 
 #### Heinrich von Kleist  
