@@ -86,7 +86,7 @@ Filmografia, letture ed esercizi
 - [Meat Love](https://www.youtube.com/watch?v=g_Xqnmk5Zic), 1989  
 - [Flora](https://www.youtube.com/watch?v=np-kFkDLT7k), 1989  
 - [A Game with stones](https://vimeo.com/99961406), 1965  
-- [Food](https://www.youtube.com/watch?v=lYwAzLlUbV8), 1992  
+- [Food](https://vimeo.com/groups/35mmandrisdamburs/videos/50746661), 1992  
 
 #### Man Ray  
 - [The Return To Reason](https://www.youtube.com/watch?v=9ijx-ZYVxkQ), 1923  
