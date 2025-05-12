@@ -32,7 +32,6 @@ function draw() {
 	rect(-10, 20, 20, -130)
 	pop()
 
-
 	// minuti
 	push()
 	const angoloMinuti = minute() / 60 * TWO_PI
@@ -53,8 +52,5 @@ function draw() {
 	// centrino
 	// fill(255)
 	// ellipse(0, 0, 5)
-
-
-
 
 }
