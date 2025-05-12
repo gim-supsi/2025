@@ -16,17 +16,13 @@ function draw() {
 	for(let i=0; i<60; i++) {
 		push()
 		rotate(i / 60 * TWO_PI)
-
-
 		if (i % 5 == 0) {
 			ellipse(0, -180, 15)
 		} else {
 			ellipse(0, -180, 5)
 		}
-
 		pop()
 	}
-
 
 	// ore
 	push()
@@ -54,11 +50,9 @@ function draw() {
 	ellipse(0, -180, 28)
 	pop()
 
-
-
 	// centrino
-	fill(255)
-	ellipse(0, 0, 5)
+	// fill(255)
+	// ellipse(0, 0, 5)
 
 
 
