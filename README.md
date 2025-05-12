@@ -54,7 +54,7 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - [Hess Lorenzo](https://github.com/l0renz0hess/gim)
 - [Jean-Richard Sophie](https://github.com/AstroPengu/gim)
 - [Lopopolo Greta](https://github.com/gretalopopolo/gim)
-- [Maghetti Simone](https://github.com/simonemaghetti)
+- [Maghetti Simone](https://github.com/simonemaghetti/GIM)
 - [Massarotti Emma](https://github.com/EmmaMassarotti/gim)
 - [Mazzola Luca](https://github.com/LucaMazzolaa/gim)
 - [Pantani Laura](https://github.com/Laura-pantani/gim)
