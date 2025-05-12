@@ -83,6 +83,7 @@ Filmografia, letture ed esercizi
 - [Free Radicals](https://www.youtube.com/watch?v=t5ych1ikDfI), 1958  
 
 #### Jan Švankmajer  
+- [Jabberwocky](https://www.youtube.com/watch?v=9VP4tgsTVKk), 1971
 - [Meat Love](https://www.youtube.com/watch?v=g_Xqnmk5Zic), 1989  
 - [Flora](https://www.youtube.com/watch?v=np-kFkDLT7k), 1989  
 - [A Game with stones](https://vimeo.com/99961406), 1965  
@@ -103,13 +104,18 @@ Filmografia, letture ed esercizi
 ## 4. Geometrie  
 
 #### Auguste & Louis Lumière  
-- [Danse Serpentine](https://www.youtube.com/watch?v=iCJ7glJLRyE), Loie Fuller, 1899  
+- [Bataille de Boules de Neige](https://www.youtube.com/watch?v=gxPaojBMuB0), 1896
+- [Danse Serpentine](https://www.cinemacentansdejeunesse.org/en/videos/a-serpentine-dance.html), Loie Fuller, 1899  
 
 #### Hans Richter  
-- [Rhythmus 21](https://www.youtube.com/watch?v=R_kceafWtbE), 1921  
+- [Rhythmus 21](https://www.youtube.com/watch?v=R_kceafWtbE), 1921 
+- [Filmstudie](https://www.youtube.com/watch?v=8JxUgqIN4ac), 1924
 - [Ghosts Before Breakfast](https://www.youtube.com/watch?v=R1RtfQDPkrE), 1928  
 
 #### Larry Cuba  
+- [Making of the Computer Graphics for Star Wars (Episode IV)](https://www.youtube.com/watch?v=yMeSw00n3Ac), 1977
+- [3/78](https://www.youtube.com/watch?v=ApnS1uDGEvw), 1978
+- [Two Space](https://www.youtube.com/watch?v=ddd5z0CgPKg), 1979
 - [Calculated Movements](https://archive.org/details/1985LarryCubaCalculatedMovements), 1985  
       
 #### Busby Berkeley  
@@ -119,6 +125,8 @@ Filmografia, letture ed esercizi
 
 #### Ralph Steiner
 - [H2O](https://www.youtube.com/watch?v=1STF_usLSQY), 1929 (Accompagnare con brano musicale a scelta)  
+- [Mechanical Principles](https://www.dailymotion.com/video/x2294d4), 1930
+- [Look Park](https://www.youtube.com/watch?v=G8mxrY-3w2A), 1974
 
 #### Norman McLaren  
 - [NFB](https://www.nfb.ca/playlists/donald_mcwilliams/mclaren/])  
@@ -132,7 +140,8 @@ Filmografia, letture ed esercizi
 - [Spheres](https://www.youtube.com/watch?v=XiBiO66pOqg), 1969   
 
 #### Segundo de Chomon  
-- [Les Kiriki Acrobates Japonais](https://www.youtube.com/watch?v=xf36AZ9cnmA), 1907  
+- [Les Kiriki Acrobates Japonais](https://www.dailymotion.com/video/x45ra), 1907  
+- [La Maison ensorcelée](https://www.youtube.com/watch?v=nTdOSTQZCQA), 1907
 
 #### Mirai Mizue  
 - [Modern](https://www.youtube.com/watch?v=fVbV-f0rMFM), 2011  
