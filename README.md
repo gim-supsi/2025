@@ -42,7 +42,7 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - [Balinzo Giada](https://github.com/giada-balinzo/gim)
 - [Belli Nahele Armando Bruno](https://github.com/Naheleee/GIM)
 - [Bionda Alissa](https://github.com/Ali-0032/gim)
-- [Borges Pinheiro Gabriel](https://github.com/Gabri-200300)
+- [Borges Pinheiro Gabriel](https://github.com/Gabri-200300/gim)
 - [Broggini Melissa](https://github.com/melissabroggini/gim)
 - [Calì Yanis](https://github.com/Nysaai/gim)
 - [Ceppi Claudio](https://github.com/Claudio-Ceppi/gim)
