@@ -62,6 +62,5 @@ Gli esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico
 - [Ribeiro Marques Sofia](https://github.com/SofiaRibeiroMarques/gim)
 - [Riva Gregorio](https://github.com/GregorioRiva/gim)
 - [Salmina Arroyo Deborah Mersedes](https://github.com/Debysalmi/gim)
-- Vigizzi Sira
 - [Vosti Riccardo](https://github.com/RiccardoVosti/gim)
 - [Zemp Martina](https://github.com/martinazemp/gim)
