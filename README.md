@@ -8,7 +8,7 @@ Il corso introduce brevemente le nozioni di tecniche di animazione dell’immagi
 Attraverso la visione di filmati storici e contemporanei verrà offerto un ventaglio di esempi e di filmati d’autore nel campo dell’arte e della comunicazione; l’obiettivo è quello di sensibilizzare gli studenti sul movimento, inteso come forma. Il fine ultimo del corso è quello di far acquisire i rudimenti di un metodo per progettare con le immagini e la grafica, esteso alla dimensione temporale. Verranno inoltre introdotte alcune nozioni di programmazione con accento sulla cinematica.  
 
 ## Modalità didattica 
-Tramite un prima serie di piccoli esercizi pratici gli studenti potranno sperimentare alcuni concetti basilari della “messa in movimento” di forme semplici. Esercizi successivi si concentreranno invece sul movimento come portatore di significato. Ogni esercizio verrà introdotto assieme ad un quadro concettuale e alle nozioni tecniche (minime) per la sua realizzazione.
+Tramite una prima serie di piccoli esercizi pratici gli studenti potranno sperimentare alcuni concetti basilari della “messa in movimento” di forme semplici. Esercizi successivi si concentreranno invece sul movimento come portatore di significato. Ogni esercizio verrà introdotto assieme ad un quadro concettuale e alle nozioni tecniche (minime) per la sua realizzazione.
 
 ## Risultato atteso 
 Consegna a fine corso degli esercizi, sulla piattaforma GitHub, come pagina html.
